@@ -7,4 +7,8 @@
  * 3. controlled element: one object i a state holding all the input fields value
  *
  * 4. uncontrolled element: useRef to creat a reference to the element adn access value by using like: nameRef.current.value
+ * 
+ * 5. use hook to handle States anda submit and error. example hook form 
+ * 
+ * 6. Reusable component. 
  */
